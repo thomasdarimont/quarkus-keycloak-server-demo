@@ -1,0 +1,6 @@
+{
+  "themes": [{
+    "name" : "hello",
+    "types": [ "login" ]
+  }]
+}
